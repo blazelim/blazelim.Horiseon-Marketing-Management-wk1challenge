@@ -10,3 +10,4 @@ Changelog
 8. in CSS, main content section consolidated to reflect similar styles
 9. in CSS, main content image styles consolidated to reflect similar styles
 10. in CSS, main content headers styles consolidated to reflect similar styles
+11. in CSS, benefit section consolidated for 'entire article sections' 'img section' and 'header section' to reflect identical styles
