@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
-Link: https://blazelim.github.io/blazelim.Horiseon-Marketing-Management/
-Github link: https://github.com/blazelim/blazelim.Horiseon-Marketing-Management
+Link: https://blazelim.github.io/blazelim.Horiseon-Marketing-Management-wk1challenge/
+Github link: https://github.com/blazelim/blazelim.Horiseon-Marketing-Management-wk1challenge
 
 Changelog
 1. id="search-engine-optimization" added to fix navigation bar
