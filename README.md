@@ -14,4 +14,5 @@ Changelog
 9. in CSS, main content image styles consolidated to reflect similar styles
 10. in CSS, main content headers styles consolidated to reflect similar styles
 11. in CSS, benefit section consolidated for 'entire article sections' 'img section' and 'header section' to reflect identical styles
-12. index of html moved to root of repository.
+12. index.html moved to root of repository.
+13. Relative pathing changed to reflect change in location in index.html
