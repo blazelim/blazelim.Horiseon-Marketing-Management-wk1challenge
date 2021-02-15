@@ -4,3 +4,4 @@ Changelog
 2. html semantics added to each element to remove "div soup"
 3. alt text added for all images in the html document
 4. alt text added to the hero background image via aria label
+5. footer h2 changed to h4 to match chronological headings
