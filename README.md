@@ -1,5 +1,16 @@
 # Code Refactor Starter Code
+# Horiseon
+
+## Purpose
+
+## Built With
+* HTML
+* CSS
+
+## Website
 Link: https://blazelim.github.io/blazelim.Horiseon-Marketing-Management-wk1challenge/
+
+## Github
 Github link: https://github.com/blazelim/blazelim.Horiseon-Marketing-Management-wk1challenge
 
 Changelog
