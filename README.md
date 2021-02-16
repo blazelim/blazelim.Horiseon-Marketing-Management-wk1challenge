@@ -2,6 +2,7 @@
 # Horiseon
 
 ## Purpose
+The landing page for the company, Horiseon
 
 ## Built With
 * HTML
